@@ -1,2 +1,7 @@
-# In dit bestand doen we de beschrijving
-## dit is de toevingeinvan marijn
+# Paper Analytics path to success
+##Doel en Inleiding
+##Waarom nu dit paper
+##Context waarin dit geschreven is.
+##
+##
+##
